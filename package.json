@@ -18,6 +18,12 @@
     "webpack-dev-server": "^1.14.0"
   },
   "babel": {
-    "presets": ["es2015", "react"]
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
+  "dependencies": {
+    "react-addons-pure-render-mixin": "^0.14.3"
   }
 }
